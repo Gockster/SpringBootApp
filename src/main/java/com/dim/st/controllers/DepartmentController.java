@@ -19,7 +19,7 @@ import com.dim.st.services.DepartmentService;
 @Controller
 @RequestMapping("/departments")
 public class DepartmentController {
-//sdsd
+
 	@Autowired
 	DepartmentService departmentService;
 	
